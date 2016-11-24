@@ -24,8 +24,8 @@
     <string name="multitasking_category">Multi-Tasking</string>
 
     <!-- Dialog -->
-    <string name="wolvesden_dialog_title">Coming Soon!!</string>
-    <string name="wolvesden_dialog_message">Under Construction</string>
+    <string name="wolvesden_dialog_title">The WolvesDen</string>
+    <string name="wolvesden_dialog_message">A simple home where the extra tweaks and features like to reside.</string>
     <string name="wolvesden_dialog_toast">READ!</string>
 
     <!-- Power Menu -->
